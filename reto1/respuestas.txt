@@ -1,0 +1,20 @@
+__________________________________________________________________________________________
+
+1.¿Cuales son las responsabilidades de un manejador de rutas?
+rpta:
+    Dirigir hacia un componente especifico en base a una ruta (Path -> "/Contacts").
+
+__________________________________________________________________________________________
+
+2.¿para que sirve un manejador de rutas?
+rpta:
+    Permite Centralizar y Gestionar las Rutas a donde la aplicación se debe dirigir sin 
+    necesidad de actualizar la página.
+__________________________________________________________________________________________
+
+3.Describe el proceso, que se realiza en el ambito de fronend para logearse en un sistema?
+rpta:
+    Al loguearse El usuario envía su  usuario y clave a través de un formulario en el front
+    y luego se envía al backend las cuales son validadas y de serlo se genera una clave 
+    token que es necesaria para consumir la API Rest.
+__________________________________________________________________________________________
